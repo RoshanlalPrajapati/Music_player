@@ -1,0 +1,19 @@
+<div class="logo_section">
+            <img class="suffle" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/000000/external-shuffle-multimedia-kiranshastry-lineal-kiranshastry.png" style="width: 34px;
+            margin: 7px;" />
+
+            <img class="previous" src="https://img.icons8.com/ios/50/000000/skip-to-start--v1.png" style="width: 34px;
+            margin: 7px;"/>
+
+            <div class="play_pause">
+                <img class="play" src="https://img.icons8.com/ios-filled/50/000000/circled-play.png" style="width: 34px;
+            margin: 7px;"/>
+    
+                <img class="pause" src="https://img.icons8.com/ios-filled/50/000000/circled-pause.png" style="width: 34px;
+            margin: 7px;"/>
+            </div>
+
+            <img class="next" src="https://img.icons8.com/ios/50/000000/end--v1.png" style="width: 34px;
+            margin: 7px;"/>
+
+        </div>
