@@ -274,3 +274,47 @@ li{
     align-items: center;
     justify-content: space-between;
 }
+
+.image_box .image{
+    width: 26vw;
+        position: relative;
+        left: -40px; height: 39vh;
+}
+
+
+@media only screen and (max-width:700px){
+    .container .image_box{
+        height: 46%;
+    }
+
+    .container{
+        width: 70%;
+    }
+
+    .image_box img{
+        width: 71vw;
+        
+    }
+
+    .container .image_box {
+        height: 37%;
+    }
+
+    p span{
+        position: relative;
+        left: 33px;
+    }
+
+    .image_box .image{
+        width: 73vw;
+    }
+
+    .dot{
+        position: relative;
+        left: -24px;
+    }
+
+    .heading{
+        position: inherit;
+    }
+}

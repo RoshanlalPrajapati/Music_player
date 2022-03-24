@@ -160,10 +160,16 @@ for (let i = 0; i < allMusic.length; i++) {
                     <div class="row">
                         <span>${allMusic[i].name}</span>
                         <p>${allMusic[i].artist}</p>
-                    </div>
+                 </div>
                     <audio class="${allMusic[i].src}" src="songs/${allMusic[i].src}"></audio>
                     <span id="${allMusic[i].src}" class="audio_duration">5:41</span>
                 </li>`;
     ulTag.insertAdjacentHTML("beforeend", liTag);
     
 }
+// const heading =document.querySelector("#heading");
+// console.log(document.innerWidth);
+// if (window.innerWidth<300){
+
+// heading.innerHTML="fuckoff"
+// }
